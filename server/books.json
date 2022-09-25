@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "book_name": "My Heroes Academia",
+        "price": 250,
+        "img": "https://vnw-img-cdn.popsww.com/api/v2/containers/file2/cms_topic/my_hero_academia_s1_sqbg-b2d1f4a73ed5-1607076013451-JrSTpa5V.jpg?v=0"
+    },
+    {
+        "id": 2,
+        "book_name": "Sword Art Online",
+        "price": 180,
+        "img": "https://c4.wallpaperflare.com/wallpaper/190/278/539/sword-art-online-sword-art-online-alicization-alice-zuberg-asuna-yuuki-eugeo-sword-art-online-hd-wallpaper-preview.jpg"
+    },
+    {
+        "id": 3,
+        "book_name": "Born this world I must ace",
+        "price": 180,
+        "img": "https://cms.dmpcdn.com/moviearticle/2022/05/03/193a1120-ca90-11ec-983a-f1a5b358758b_original.jpg"
+    },
+    {
+        "id": 4,
+        "book_name": "Shikimori San",
+        "price": 220,
+        "img": "https://img1.ak.crunchyroll.com/i/spire2-tmb/35062b93f3b5116f7fa44d9b68a156a81649524312_main.jpg"
+    },
+    {
+        "id": 5,
+        "book_name": "Demon Slayers",
+        "price": 250,
+        "img": "https://images.workpointnews.com/workpointnews/2020/12/15222046/1608045642_10091_0_UZcUpSCBrd5bGiwO.jpg"
+    },
+    {
+        "id": 6,
+        "book_name": "Tensei Shitara Slime Datta Ken",
+        "price": 250,
+        "img": "https://cms.dmpcdn.com/moviearticle/2022/04/29/1b81e3e0-c793-11ec-866e-13fac76fbb0f_original.jpg"
+    },
+    {
+        "id": 7,
+        "book_name": "Horimiya",
+        "price": 220,
+        "img": "http://f.ptcdn.info/279/016/000/1393780118-Horimiya-o.jpg"
+    }
+]
